@@ -391,7 +391,7 @@
 			<string>Recovery</string>
 		</array>
 		<key>Language</key>
-		<string>en:0</string>
+		<string>zh_CN:0</string>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
@@ -590,17 +590,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>12/19/2018</string>
+		<string>09/17/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP142.88Z.F000.B00.1812191256</string>
+		<string>MBP152.88Z.F000.B00.1809171524</string>
 		<key>Board-ID</key>
-		<string>Mac-CAD6701F7CEA0921</string>
+		<string>Mac-827FB448E656EC26</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02731130GUHRPCFB</string>
+		<string>C02842200GUJH4RA8</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -612,7 +612,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>186.0.0.0.0</string>
+		<string>220.250.320.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
@@ -628,11 +628,11 @@
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>MacBookPro14,2</string>
+		<string>MacBookPro15,2</string>
 		<key>SerialNumber</key>
-		<string>C02V50G2HV2N</string>
+		<string>C02XK6ZJJHCD</string>
 		<key>SmUUID</key>
-		<string>F3E038E0-B314-413E-A361-9802F5594AAE</string>
+		<string>5B0D88DC-C931-4371-9B9D-90FCCE78D78D</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
