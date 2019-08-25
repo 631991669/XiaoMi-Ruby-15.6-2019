@@ -31,7 +31,8 @@
 
 ## 注意事项
 1. option 和 command 键位调换，（win 和 alt 键位调换）。<br/>
-安装完成后，你需要使用 < DW1820A / Kext_Utility.app.v2.6.6.zip > 来使触控板正常工作。<br/>
+2. 安装完成后，你需要使用 < DW1820A / Kext_Utility.app.v2.6.6.zip > 来使触控板正常工作。<br/>
+3. 安装完成后，你可以直接使用 < DW1820A / RDM22.dmg > 来开启 HIDPI 
 
 ## 不能工作 Can not work
 1. Built-in Speaker：内置扬声器
