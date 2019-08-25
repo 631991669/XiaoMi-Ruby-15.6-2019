@@ -1,4 +1,4 @@
-﻿# XiaoMi-Ruby-15.6-2019 小米笔记本Ruby 15.6
+# XiaoMi-Ruby-15.6-2019 小米笔记本Ruby 15.6
 ## Hackintosh Clover files 黑苹果三叶草文件 
 ## [MI laptop Ruby 2019 (CN)](https://www.mi.com/mibook/ruby15-2019mx110/specs/)
 ## [Xiaomi Mi Notebook 15.6 Lite (RU)](https://market.yandex.ru/?suggest_text=Xiaomi%20Mi%20Notebook%2015.6%20Lite)
@@ -22,40 +22,22 @@
 
 
 ## 介绍
-系统版本 OSX 10.14.4
+所安装的系统版本为 10.14.6
 
-### 2019年4月26日
-搞了一周时间，终于搞定了部分功能，实在是个人能力有限。  
-下面说一下 可以工作的部分  和  不能工作的部分。  
-### 2019年4月30日
-有大佬帮忙完善了！ 再次谢谢大佬！  
-欢迎各位反馈我没遇到的问题！  
-### 2019年5月13日
-更改型号，解决鉴权卡顿。
-更新 kexts。
+### 2019年08月25日 更新
+基于 [XenOriginal 的 EFI ](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only) 的基础上
+修正了破音的问题，定制了USB接口补丁，更新了驱动，集成了DW1820A的驱动。
+可能修正了直接连接4K显示器 ，外屏内屏 都黑屏的问题。（强制1080P）
+
+## 注意事项
+option 和 command 键位调换，（win 和 alt 键位调换）。
+
 
 ## 不能工作 Can not work
+1. Built-in Speaker：内置扬声器
 
-1. 内置扬声器 Built-in Speaker
-2. 读卡器 Card reader
 
 ## 有小问题 Have little problem
 
-1. 睡眠：可能不正常工作
-2. 蓝牙：可能不正常工作
-3. USB接口：可能不正常工作
-4. 核显：启动时双屏显示 ,内屏不亮 {睡眠一次(关闭盖子再打开) 内屏显示正常}
-
-## 工作正常 Can work
-
-1. 无线网卡: 正常工作
-2. 有线网卡: 正常工作
-3. 电量: 电量显示正常工作、充电状态正常工作
-4. 声卡: 内置麦克风、耳机插孔（耳机 耳机麦克风） 正常工作
-5. 内置键盘触控板: 正常工作、触控可以手势
-6. 相机: 正常工作
-
-
-
-
-
+1. Graphics 核显：启动时双屏显示 ,内屏不亮 {(关闭盖子再打开) 内屏显示正常}
+2. Card reader 读卡器：  可能不会正常工作
