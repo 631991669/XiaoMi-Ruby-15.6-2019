@@ -25,19 +25,18 @@
 所安装的系统版本为 10.14.6
 
 ### 2019年08月25日 更新
-基于 [XenOriginal 的 EFI ](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only) 的基础上
-修正了破音的问题，定制了USB接口补丁，更新了驱动，集成了DW1820A的驱动。
-可能修正了直接连接4K显示器 ，外屏内屏 都黑屏的问题。（强制1080P）
+基于 [XenOriginal 的 EFI ](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only) 的基础上 <br/>
+修正了破音的问题，定制了USB接口补丁，更新了驱动，集成了DW1820A的驱动。<br/>
+可能修正了直接连接4K显示器 ，外屏内屏 都黑屏的问题。（强制1080P）<br/>
 
 ## 注意事项
-option 和 command 键位调换，（win 和 alt 键位调换）。
-
+1. option 和 command 键位调换，（win 和 alt 键位调换）。<br/>
+安装完成后，你需要使用 < DW1820A / Kext_Utility.app.v2.6.6.zip > 来使触控板正常工作。<br/>
 
 ## 不能工作 Can not work
 1. Built-in Speaker：内置扬声器
 
-
 ## 有小问题 Have little problem
 
-1. Graphics 核显：启动时双屏显示 ,内屏不亮 {(关闭盖子再打开) 内屏显示正常}
+1. Graphics 核显：启动时双屏显示 ,内屏不亮 {(关闭盖子再打开) 内屏显示正常}<br/>
 2. Card reader 读卡器：  可能不会正常工作
